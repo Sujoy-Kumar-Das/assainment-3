@@ -1,0 +1,15 @@
+/* custom media for header start */
+@media only screen and (max-width:576px) {
+    .edu-image img{
+        height: 50vh;
+    }
+}
+
+@media only screen and (min-width:576) and (max-width:768px) {
+    .edu-image{
+        height: 50vh;
+    }
+}
+    
+
+/* custom media for header end */
