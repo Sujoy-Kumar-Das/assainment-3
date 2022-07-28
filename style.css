@@ -15,11 +15,17 @@
     .edu-image img{
         height: 50vh;
     }
+    .commpany{
+        display: none;
+    }
 }
 
 @media only screen and (min-width:576) and (max-width:768px) {
     .edu-image{
         height: 50vh;
+    }
+    .commpany{
+        display: none;
     }
 }
     
