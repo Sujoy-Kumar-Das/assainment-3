@@ -1,8 +1,15 @@
 
 
-
-
-
+/* custom css for footer start */
+footer{
+    height: 350px;
+    width: 100%;
+}
+.fa-brands{
+    font-size: 30px;
+    padding: 10px;
+}
+/* custom css for footer end */
 
 
 
